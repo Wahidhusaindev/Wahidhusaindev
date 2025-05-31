@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidhusain&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="wahidhusain" /> </p>
 
-<a href="https://www.linkedin.com/in/wahid-husain">
+<a href="https://www.linkedin.com/in/wahid-husain-dev/">
   <img align="left" alt="Wahid's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/wahidhusain">
+<a href="https://github.com/wahidhusaindev">
   <img align="left" alt="Wahid's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wahid-husain)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wahid-husain-dev)
 
 <br/>
 <br/>
