@@ -1,18 +1,16 @@
-## 👋 Hello, I'm [Monesh Venkul Vommi!](https://moneshvenkul.github.io/) 
-**🚀 Senior Full Stack Developer | Vue.js 🎨 React ⚛️ Angular 🅰️ Node.js 🌐 Python 🐍 Django | Java Spring Boot ☕ TypeScript 📜 SQL & NoSQL 💾 | Microservices**
+## 👋 Hello, I'm [Wahid Husain!](https://your-portfolio-link.com/) 
+**🚀 Full Stack Web Developer | React ⚛️ Node.js 🌐 Express ⚡ MongoDB | JavaScript 💻 Python 🐍 | SQL & NoSQL 💾 | Web Development Enthusiast**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="moneshvenkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidhusain&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="wahidhusain" /> </p>
 
-<a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
-  <img align="left" alt="Monesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/wahid-husain">
+  <img align="left" alt="Wahid's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/moneshvenkul">
-  <img align="left" alt="Monesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/wahidhusain">
+  <img align="left" alt="Wahid's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=monesh-venkul-vommi-8a80b6174)
-
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wahid-husain)
 
 <br/>
 <br/>
@@ -21,62 +19,42 @@
 
 ### 🌟 **About Me**
 
-- 🌐 A versatile **Full-Stack Developer** and tech enthusiast, blending hands-on experience in **web development** with advanced **AI/ML knowledge** to build innovative solutions.
-- 🛠️ Proficient in crafting modern, scalable web applications using **React**, **Vue.js**, **Node.js**, and **Angular**.
-- ☁️ Expert in cloud technologies, including **AWS**, **Azure**, and containerization tools like **Docker** and **Kubernetes**.
-- 🎯 Currently engaged in **front-end and API development** using **Vue.js** and **Node.js**, focusing on seamless user experiences.
-- 🤝 A dedicated mentor and educator, committed to empowering future developers and fostering a collaborative tech community.
+- 🌐 A passionate **Full Stack Web Developer** currently pursuing a **Full Stack Web Development** course at **AlmaBetter**, where I'm learning the latest technologies and building scalable applications.
+- 🛠️ Skilled in **front-end** (React, Vue.js) and **back-end** (Node.js, Express, MongoDB) technologies, with a strong foundation in **JavaScript** and **Python**.
+- 🎯 Focused on **creating modern, responsive web applications** that deliver great user experiences.
+- 🤝 Always eager to learn new technologies and stay updated on the latest trends in web development.
+- 🎓 A **BBA graduate from MJPRU Bareilly**, blending business insights with technical skills to approach software development with a user-centered mindset.
 
 ---
 
 ### 💼 **Professional Experience**
 
-- **🔹 Capital One | Senior Full Stack Developer**
-  - 🏆 Led the development of Vue.js-based applications, boosting client satisfaction by 30%.
-  - 🔄 Implemented reusable TypeScript components, improving code efficiency and project scalability.
-  - 🔗 Integrated backend services and RESTful APIs for secure data operations.
-  - 🛡️ Advocated for **Test-Driven Development (TDD)**, enhancing application reliability.
-  - 🤝 Mentored junior developers and facilitated team code reviews.
-  
-- **🔹 Cognixia | Full Stack Engineer**
-  - 🔍 Resolved critical bugs in complex workflows, improving system reliability for over 5,000 users.
-  - 🤝 Collaborated in Agile teams to deliver impactful, scalable solutions.
-  - ⚙️ Improved system performance with modern JavaScript frameworks and backend integration.
+- **🔹 AlmaBetter | Full Stack Web Developer (In Progress)**
+  - 🚀 Currently learning **React**, **Node.js**, **Express**, and **MongoDB** to build full-stack applications.
+  - 📚 Focused on real-world, project-based learning to gain hands-on experience with modern development tools and practices.
 
-- **🔹 University of New Haven | Assistant Provost**
-  - 📈 Launched new academic programs that increased enrollment by 15%.
-  - 📚 Conducted faculty workshops, elevating teaching practices.
-  - 🏅 Achieved a 95% satisfaction rate through targeted feedback initiatives.
-
-- **🔹 AlmaBetter | Full Stack Software Dev Instructor**
-  - 👨‍🏫 Taught 15+ batches of students, focusing on real-world, project-based learning.
-  - 🚀 Helped students achieve an 80% placement rate at leading tech companies.
-
-- **🔹 HCL Technologies | Software Engineer**
-  - 💻 Developed scalable applications with **Java**, **Spring Boot**, and cloud integration, raising client satisfaction by 20%.
-  - ⏱️ Delivered projects under tight deadlines, earning recognition for reliability and teamwork.
+- **🔹 MJPRU Bareilly | BBA Graduate**
+  - 📊 Completed my **BBA** with a focus on **business administration**, gaining insights into project management, marketing, and organizational leadership, which helps me approach tech projects from a business perspective.
 
 ---
 
 ### 🎓 **Education**
 
-- **🎓 University of New Haven**
-  - M.S. in Business Analytics 📊 (Completed Dec 2023)
-- **🎓 Zero To Mastery Academy**
-  - Certification in Computer Science 💻 (Completed Dec 2023)
-- **🎓 Sathyabama University**
-  - Bachelor's in Computer Science (Completed Aug 2020)
+- **🎓 AlmaBetter**
+  - Full Stack Web Developer (In Progress)
+- **🎓 MJPRU Bareilly**
+  - Bachelor of Business Administration (BBA) 📊
 
 ---
 
 ### 🌟 **Skills Highlight**
 
-- **💻 Full-Stack Development**: Vue.js, React, Angular, Node.js
-- **🧠 AI/ML Integration**: TensorFlow, PyTorch, NLP, model deployment
-- **☁️ Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Jenkins
-- **📈 Data Management**: SQL, NoSQL (MongoDB, Cassandra)
-- **🔧 Agile Practices & TDD**: Project management, code reviews, mentorship
-- **🎨 UI/UX Design**: User-centric interfaces with accessibility standards
+- **💻 Full-Stack Development**: React, Node.js, Express, MongoDB
+- **📚 Front-End Development**: HTML5, CSS3, JavaScript, Vue.js, React
+- **🖥️ Back-End Development**: Node.js, Express, REST APIs, MongoDB
+- **📈 Data Management**: SQL, NoSQL (MongoDB)
+- **🔧 Version Control**: Git, GitHub
+- **📲 Responsive Design**: Building mobile-first and responsive web applications
 
 ---
 
@@ -85,16 +63,12 @@
 <p align="left">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png">
 </p>
 
 <div align="center">
