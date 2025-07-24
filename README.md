@@ -1,78 +1,83 @@
-## 👋 Hello, I'm [Wahid Husain!](https://your-portfolio-link.com/) 
+## 👋 Hello, I'm [Wahid Husain!](https://wahidhusain.netlify.app/)
+
 **🚀 Full Stack Web Developer | React ⚛️ Node.js 🌐 Express ⚡ MongoDB | JavaScript 💻 Python 🐍 | SQL & NoSQL 💾 | Web Development Enthusiast**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidhusain&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="wahidhusain" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wahidhusaindev&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <a href="https://www.linkedin.com/in/wahid-husain-dev/">
   <img align="left" alt="Wahid's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/wahidhusaindev">
-  <img align="left" alt="Wahid's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Wahid's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wahid-husain-dev)
 
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
-### 🌟 **About Me**
+### 🌟 About Me
 
-- 🌐 A passionate **Full Stack Web Developer** currently pursuing a **Full Stack Web Development** course at **AlmaBetter**, where I'm learning the latest technologies and building scalable applications.
-- 🛠️ Skilled in **front-end** (React, Vue.js) and **back-end** (Node.js, Express, MongoDB) technologies, with a strong foundation in **JavaScript** and **Python**.
-- 🎯 Focused on **creating modern, responsive web applications** that deliver great user experiences.
-- 🤝 Always eager to learn new technologies and stay updated on the latest trends in web development.
-- 🎓 A **BBA graduate from MJPRU Bareilly**, blending business insights with technical skills to approach software development with a user-centered mindset.
-
----
-
-### 💼 **Professional Experience**
-
-- **🔹 AlmaBetter | Full Stack Web Developer (In Progress)**
-  - 🚀 Currently learning **React**, **Node.js**, **Express**, and **MongoDB** to build full-stack applications.
-  - 📚 Focused on real-world, project-based learning to gain hands-on experience with modern development tools and practices.
-
-- **🔹 MJPRU Bareilly | BBA Graduate**
-  - 📊 Completed my **BBA** with a focus on **business administration**, gaining insights into project management, marketing, and organizational leadership, which helps me approach tech projects from a business perspective.
+- 🌐 A passionate **Full Stack Web Developer**, currently learning at **AlmaBetter**.
+- 🛠️ Skilled in **React**, **Vue.js**, **Node.js**, **Express**, **MongoDB**, **JavaScript**, and **Python**.
+- 📱 Focused on creating modern, responsive web applications with great user experience.
+- 🤝 Always learning and growing with the latest tech trends.
+- 🎓 BBA Graduate from **MJPRU Bareilly**, combining business knowledge with tech skills.
 
 ---
 
-### 🎓 **Education**
+### 💼 Professional Experience
 
-- **🎓 AlmaBetter**
-  - Full Stack Web Developer (In Progress)
-- **🎓 MJPRU Bareilly**
-  - Bachelor of Business Administration (BBA) 📊
+- **🔹 AlmaBetter | Full Stack Web Developer (In Progress)**  
+  🚀 Learning hands-on with **React**, **Node.js**, **Express**, and **MongoDB**.  
+  💡 Building scalable, real-world applications.
 
----
-
-### 🌟 **Skills Highlight**
-
-- **💻 Full-Stack Development**: React, Node.js, Express, MongoDB
-- **📚 Front-End Development**: HTML5, CSS3, JavaScript, Vue.js, React
-- **🖥️ Back-End Development**: Node.js, Express, REST APIs, MongoDB
-- **📈 Data Management**: SQL, NoSQL (MongoDB)
-- **🔧 Version Control**: Git, GitHub
-- **📲 Responsive Design**: Building mobile-first and responsive web applications
+- **🔹 MJPRU Bareilly | BBA Graduate**  
+  📊 Gained foundational knowledge in business, marketing, and management to complement technical skills.
 
 ---
 
-### 🛠️ **Languages and Tools**
+### 🎓 Education
+
+- 🎓 **AlmaBetter**  
+  Full Stack Web Developer Program (Ongoing)
+
+- 🎓 **MJPRU Bareilly**  
+  Bachelor of Business Administration (BBA)
+
+---
+
+### 🧠 Skills & Technologies
+
+- 💻 **Full-Stack Development**: React, Node.js, Express, MongoDB
+- 🎨 **Front-End**: HTML5, CSS3, JavaScript, Vue.js
+- 🛠 **Back-End**: Node.js, Express, REST APIs
+- 🧾 **Databases**: SQL, MongoDB
+- 🔧 **Version Control**: Git & GitHub
+- 📱 **Responsive Design**: Tailwind CSS, Flexbox, Grid
+
+---
+
+### 🛠️ Languages & Tools
 
 <p align="left">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue.js">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3">
 </p>
+
+---
 
 <div align="center">
 
-### ⭐ Show some love by starring some of the repositories!
+### ⭐ Show some love by starring my repositories!
 
 </div>
