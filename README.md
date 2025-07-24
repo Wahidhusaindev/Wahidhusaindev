@@ -6,12 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=wahidhusaindev&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<a href="https://www.linkedin.com/in/wahid-husain-dev/">
-  <img align="left" alt="Wahid's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/wahidhusaindev">
-  <img align="left" alt="Wahid's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/wahid-husain-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/wahidhusaindev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</p>
 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wahid-husain-dev)
 
