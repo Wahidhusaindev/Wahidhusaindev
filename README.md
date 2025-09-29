@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm [Wahid Husain!](https://wahidhusain.netlify.app/)
 
-**🚀 Full Stack Web Developer | React ⚛️ Node.js 🌐 Express ⚡ MongoDB | JavaScript 💻 Python 🐍 | SQL & NoSQL 💾 | Web Development Enthusiast**
+**🚀 Full Stack Web Developer | React ⚛️ Node.js 🌐 Express ⚡ MongoDB | JavaScript | SQL & NoSQL 💾 | Web Development Enthusiast**
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wahidhusaindev&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
