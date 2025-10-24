@@ -15,7 +15,7 @@
   </a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/wahidhusaindev?ext=heatmap)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wahid-husain-dev)
 
 <br/><br/>
 
@@ -79,7 +79,7 @@
 ---
 
 <div align="center">
-[![wahidhusaindev's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=wahidhusaindev&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/wahidhusaindev?ext=heatmap)
 
 ### ⭐ Show some love by starring my repositories!
 
