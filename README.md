@@ -15,7 +15,7 @@
   </a>
 </p>
 
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wahid-husain-dev)
+![Leetcode Stats](https://leetcard.jacoblin.cool/wahidhusaindev?ext=heatmap)
 
 <br/><br/>
 
