@@ -79,6 +79,7 @@
 ---
 
 <div align="center">
+[![wahidhusaindev's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=wahidhusaindev&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ### ⭐ Show some love by starring my repositories!
 
